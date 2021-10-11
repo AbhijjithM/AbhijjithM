@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhijjithM
 - 👀 I’m interested in coding and learning new languages
-- 🌱 I’m currently learning Computer science at SRM University
+- 🌱 I’m currently learning computer science at SRM University
 - 📫 How to reach me - am8409@srmist.edu.in
 
 <!---
